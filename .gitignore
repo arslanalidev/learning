@@ -1,0 +1,98 @@
+# General
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Kotlin/JVM
+*.kotlin_module
+*.kotlin_metadata
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Android
+*.apk
+*.ap_
+*.aab
+local.properties
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+*.jks
+
+# Node.js (in case you add web examples)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (in case you add Python examples)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Backup and temporary files
+*.bak
+*.backup
+*.orig
+*.rej
+*~
+
+# Large media files (optional - uncomment if needed)
+# *.pdf
+# *.ppt
+# *.pptx
+# *.key
+
+# Personal notes (uncomment if you want to keep personal notes private)
+# **/personal/
+# **/private/
+# notes.md
